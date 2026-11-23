@@ -24,6 +24,7 @@
 </div>
 
 ## ✿ &nbsp;what is douceurs?
+https://douceurs-jfdy.netlify.app/#main
 
 *Douceurs* is French for "sweetnesses", and that is exactly what this little journal is: a soft, pink corner of the internet devoted to dessert. Part storybook, part play-space, part recipe box, all wrapped up in ribbons.
 
